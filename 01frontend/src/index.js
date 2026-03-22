@@ -11,7 +11,7 @@ import SupportPage from './Landing_page/support/SupportPage'
 import ProductPage from './Landing_page/product/productPage';
 
 import Navbar from './Landing_page/Navbar';
-import Footer from './Landing_page/Footer';
+import Footer from './Landing_page/Footer.js';
 // import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
